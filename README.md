@@ -1,3 +1,4 @@
 # Visually Written Blog Docs
+This repo contains sample code, examples, etc.
 
-Repo used for blog-related documents, code and examples
+
